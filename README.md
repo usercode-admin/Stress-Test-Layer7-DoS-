@@ -23,4 +23,4 @@ Ensure you have [Go](https://go.dev/dl/) installed on your system.
 
 # IMG
 
-(received_955897527018260.webp)
+(images/Received_955897527018260.webp)
