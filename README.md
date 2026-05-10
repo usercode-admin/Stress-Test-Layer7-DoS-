@@ -26,3 +26,5 @@ Ensure you have [Go](https://go.dev/dl/) installed on your system.
 <p align="center">
   <img src="received_955897527018260.webp" alt="Udola Tool Interface" width="700">
 </p>
+ 
+Co-authored-by: tomdev211 <konoikonoi98@gmail.com>
