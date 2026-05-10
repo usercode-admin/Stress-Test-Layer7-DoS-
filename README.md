@@ -18,4 +18,6 @@ Ensure you have [Go](https://go.dev/dl/) installed on your system.
 1. Run the script:
    ```bash
    go run udola.go
+   or
+   go run udola2.go
    
