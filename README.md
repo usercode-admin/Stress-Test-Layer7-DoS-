@@ -23,4 +23,6 @@ Ensure you have [Go](https://go.dev/dl/) installed on your system.
 
 # IMG
 
-(images/received_955897527018260.webp)
+<p align="center">
+  <img src="received_955897527018260.webp" alt="Udola Tool Interface" width="700">
+</p>
